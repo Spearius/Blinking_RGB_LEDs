@@ -1,0 +1,1 @@
+This program uses three onboard switches and the onboard RGB LED light. The program is designed to light up a Red, Green, and Blue color one at a time, one switch per color. If more than one switch is pushed to ON, then no colors will light up.

@@ -1,0 +1,15 @@
+# Vivado generated folders
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+
+# Vivado generated/project files
+*.xpr
+*.jou
+*.log
+*.str
+
+# Vivado Design Checkpoints
+*.dcp
